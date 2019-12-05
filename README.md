@@ -21,4 +21,5 @@
   - Python's Data Model:  https://docs.python.org/3/reference/datamodel.html
   - The String Format Method: https://pyformat.info/
   - Operator Precedence Table: https://www.mathcs.emory.edu/~valerie/courses/fall10/155/resources/op_precedence.html
+  - Managing Environments with Conda: https://docs.conda.io/projects/conda/en/latest/user-guide/tasks/manage-environments.html
   
