@@ -15,3 +15,9 @@
   - **Introduction to DataFrames with Pandas**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/IFOM-Python-Workshop2019/blob/master/Day0/DataFrames1.ipynb)
   - **Pair Exercise**: Psychology Experiment Analysis
   
+
+## References
+
+  - Python's Data Model:  https://docs.python.org/3/reference/datamodel.html
+  - The String Format Method: https://pyformat.info/
+  
