@@ -20,4 +20,5 @@
 
   - Python's Data Model:  https://docs.python.org/3/reference/datamodel.html
   - The String Format Method: https://pyformat.info/
+  - Operator Precedence Table: https://www.mathcs.emory.edu/~valerie/courses/fall10/155/resources/op_precedence.html
   
