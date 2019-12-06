@@ -13,7 +13,17 @@
     - **Activity**: Initializing an Project Directory Tree
   - **Broadcasting with NumPy**
   - **Introduction to DataFrames with Pandas**: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nickdelgrosso/IFOM-Python-Workshop2019/blob/master/Day0/DataFrames1.ipynb)
-  - **Pair Exercise**: Psychology Experiment Analysis
+  
+### Day 2: Data Analysis with SciPy
+  - **A Better Introduction to DataFrames with Pandas**
+    - **Activity**: Psychology Experiment Analysis
+  - **High-Level Tools and Data Structures**
+    - **The Split-Apply-Combine Workflow**
+    - **Data Visualizatoin Visualization with Seaborn**
+    - **"Tidy" Data: Long Data Frames"*8
+  - **Multidimensional Arrays in NumPy**
+    - **Activity**: Cropping and Black-and-White-ing an Image
+  - **Introduction to DevOps: Review over the files and tools that improve productivity.**
   
 
 ## References
