@@ -19,10 +19,11 @@
     - **Activity**: Psychology Experiment Analysis
   - **High-Level Tools and Data Structures**
     - **The Split-Apply-Combine Workflow**
-    - **Data Visualizatoin Visualization with Seaborn**
+    - **Data Visualization Visualization with Seaborn**
     - **"Tidy" Data: Long Data Frames"*8
   - **Multidimensional Arrays in NumPy**
     - **Activity**: Cropping and Black-and-White-ing an Image
+  - **Writing Scripts Interactively in JupyterLab**
   - **Introduction to DevOps: Review over the files and tools that improve productivity.**
   
 
